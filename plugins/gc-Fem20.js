@@ -55,4 +55,6 @@ global.Fem20 = `
 ㅤʚ 𝐒𝐔𝐏𝐋𝐄𝐍𝐓𝐄:
 🌸 ┇ 
 🌸 ┇
+
+*◤By : Alacran Bot ◢*
 `;

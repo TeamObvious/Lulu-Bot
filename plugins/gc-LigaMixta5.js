@@ -26,4 +26,6 @@ global.LigaMixta5 = `
 
 🌸 ┇ 
 🥷🏻 ┇
+
+*◤By : Alacran Bot ◢*
 `;

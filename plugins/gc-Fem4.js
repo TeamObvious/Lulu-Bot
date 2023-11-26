@@ -25,4 +25,6 @@ global.Fem4 = `
 
 🌸 ┇ 
 🌸 ┇
+
+*◤By : Alacran Bot ◢*
 `;
