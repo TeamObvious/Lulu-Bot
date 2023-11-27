@@ -18,30 +18,30 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
     const taguser = '@' + m.sender.split('@s.whatsapp.net')[0];
     const doc = ['pdf', 'zip', 'vnd.openxmlformats-officedocument.presentationml.presentation', 'vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'vnd.openxmlformats-officedocument.wordprocessingml.document'];
     const document = doc[Math.floor(Math.random() * doc.length)];
-    const str = ` 🦂 𝘼𝙡𝙖𝙘𝙧𝙖𝙣 🦂
+    const str = ` 🌼 𝗟𝗨𝗟𝗨 🌼
     
-➤ *Hola, ${taguser} Recuerda Que Para Que Funcionen El Bot Debe Ser Admin Del Grupo 🦂*
+➤ *Hola, ${taguser} Recuerda Que Para Que Funcionen El Bot Debe Ser Admin Del Grupo 🌼*
 
  ◤━━━━━━━━━━━◥
- ►🦂 _${usedPrefix}LigaMixta5_
- ►🦂 _${usedPrefix}Liga5_
- ►🦂 _${usedPrefix}LigaMixta_
- ►🦂 _${usedPrefix}Liga_
- ►🦂 _${usedPrefix}ScrimMixta_
- ►🦂 _${usedPrefix}Scrim_
- ►🦂 _${usedPrefix}Masc4_
- ►🦂 _${usedPrefix}Masc8_
- ►🦂 _${usedPrefix}Masc12_
- ►🦂 _${usedPrefix}Masc16_
- ►🦂 _${usedPrefix}Masc20_
- ►🦂 _${usedPrefix}Masc24_
- ►🦂 _${usedPrefix}Fem4_
- ►🦂 _${usedPrefix}Fem8_
- ►🦂 _${usedPrefix}Fem12_
- ►🦂 _${usedPrefix}Fem16_
- ►🦂 _${usedPrefix}Fem20_
- ►🦂 _${usedPrefix}Fem24_
- ►🦂 _${usedPrefix}Mapa_
+ ►🌼 ${usedPrefix}LigaMixta5
+ ►🌼 ${usedPrefix}Liga5
+ ►🌼 ${usedPrefix}LigaMixta
+ ►🌼 ${usedPrefix}Liga
+ ►🌼 ${usedPrefix}ScrimMixta
+ ►🌼 ${usedPrefix}Scrim
+ ►🌼 ${usedPrefix}Masc4
+ ►🌼 ${usedPrefix}Masc8
+ ►🌼 ${usedPrefix}Masc12
+ ►🌼 ${usedPrefix}Masc16
+ ►🌼 ${usedPrefix}Masc20
+ ►🌼 ${usedPrefix}Masc24
+ ►🌼 ${usedPrefix}Fem4
+ ►🌼 ${usedPrefix}Fem8
+ ►🌼 ${usedPrefix}Fem12
+ ►🌼 ${usedPrefix}Fem16
+ ►🌼 ${usedPrefix}Fem20
+ ►🌼 ${usedPrefix}Fem24
+ ►🌼 ${usedPrefix}Mapa
  ◣━━━━━━━━━━━◢`.trim();
     if (m.isGroup) {
       // await conn.sendFile(m.chat, vn, 'menu.mp3', null, m, true, { type: 'audioMessage', ptt: true})
