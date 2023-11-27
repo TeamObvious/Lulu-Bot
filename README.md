@@ -1,11 +1,11 @@
-### `👑 𝗦𝗮𝗺𝘂𝗿𝗮𝗶 𝗥𝗲𝘆 👑` 
+### `🌼 𝗟𝗨𝗟𝗨 🌼` 
  
 ```bash
 cd && termux-setup-storage && apt-get update -y && apt-get upgrade -y && pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
 ```
 
 ```bash
-git clone https://github.com/TeamObvious/Samurai-Rey.git && cd Samurai-Rey
+git clone https://github.com/TeamObvious/Lulu.Bot.git && cd Lulu.Bot
 ```
 
 ```bash
